@@ -16,7 +16,7 @@ This is a portfolio website displaying the three major projects we had at Noroff
 
 ### Installing
 
-You can install the project by clonng the github repo to your computer.
+You can install the project by cloning the github repo to your computer.
 
 ### Running
 
