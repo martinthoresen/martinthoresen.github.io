@@ -1,0 +1,72 @@
+body {
+  font-family: "Libre Baskerville", serif;
+  background-image: url("/images/subtle_carbon.png");
+}
+
+h1,
+h2 {
+  font-family: "League Spartan", sans-serif;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: aqua;
+}
+.intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  background-color: transparent;
+  border: 2px solid aqua;
+  border-radius: 2em;
+  margin: 2em;
+  padding: 1em;
+}
+.intro img {
+  max-width: 10em;
+  border-radius: 50%;
+  margin: 0 3em;
+}
+
+.intro p {
+  text-align: center;
+  color: white;
+}
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: transparent;
+  padding: 2em;
+  margin: 2em;
+  border-radius: 2em;
+  border: 2px solid aqua;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card p {
+  color: white;
+}
+.card img {
+  width: 100%;
+  height: 30em;
+  object-fit: scale-down;
+}
+.card a {
+  margin: 0.5em;
+}
+
+@media (min-width: 600px) {
+  .card {
+    max-width: 30em;
+    align-items: flex-start;
+  }
+}
