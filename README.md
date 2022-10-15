@@ -1,6 +1,6 @@
 # Portfolio
 
-![image](images/semester-project-screenshot.png)
+![image](images/portfolio.png)
 
 ## Description
 
@@ -30,6 +30,7 @@ You can see a live version of the website by running the VSCode project with the
 
 ## Acknowledgments
 
-FontAwesome for easy-access icons and fonts - [FontAwesome](https://fontawesome.com/)
 
 Google Fonts for free, open-source fonts - [Google Fonts](https://fonts.google.com/)
+
+Toptal for great background pattterns for your website - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/subtle-carbon/)
